@@ -1,0 +1,36 @@
+.box-part{
+    background-color: gainsboro;
+    margin: 15px 20px 15px 20px;
+    padding: 40px 20px;
+    text-align: center;
+}
+.fa{
+    color: blue;
+}
+.links{
+    text-decoration: underline;
+}
+.box{
+    padding: 30px 20px;
+}
+.Email{
+    
+    margin-left: 25px;
+
+}
+.message{
+   
+    margin-left: 25px;
+}
+#mail{
+    padding: 10px 400px;
+}
+#mes{
+    padding: 40px 500px;
+}
+.sub{
+    margin-left: 20px;
+    background-color: lightskyblue;
+}
+.restaer{
+    background-color: lightskyblue}
